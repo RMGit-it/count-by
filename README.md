@@ -1,6 +1,6 @@
 # _{Application Name}_
 
-#### _{Brief description of applicaton}, {Date of current version}_
+#### takes two numbers - one to count to and another to determine what multiple to use to get there., {Date of current version}_
 
 #### By _**{List of contributors}**_
 
